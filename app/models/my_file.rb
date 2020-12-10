@@ -1,0 +1,2 @@
+class MyFile < ApplicationRecord
+end
